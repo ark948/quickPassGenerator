@@ -8,7 +8,7 @@ Usage:
 
 - Run the source.py file:
    1. You will be asked to enter a name for your account/website. This name will also be used as the filename for the exported text file.
-   You can leave it blank, in that case, a random filename with the following format will be generated: "blank<random digit 0 - 500>"
+   You can leave it blank, in that case, a random filename with the following format will be generated: "blank<random digit 0 - 500>".\
    An entry containing account name/website (if provided), a username with "someUser<random digit 0 - 9999>, and a password with the following format will be generated for you.
 
         ``<4 random lowercase letters><4 random UpperCase letters><random 4 number digit 0 - 9999><4 random symbol character>``
